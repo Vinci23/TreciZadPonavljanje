@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\bin\Debug\TreciZadPonavljanje.exe.config
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\bin\Debug\TreciZadPonavljanje.exe
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\bin\Debug\TreciZadPonavljanje.pdb
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\obj\Debug\TreciZadPonavljanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\obj\Debug\TreciZadPonavljanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\obj\Debug\TreciZadPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\obj\Debug\TreciZadPonavljanje.exe
+C:\Users\ucenik\Desktop\TreciZadPonavljanje\TreciZadPonavljanje\obj\Debug\TreciZadPonavljanje.pdb
